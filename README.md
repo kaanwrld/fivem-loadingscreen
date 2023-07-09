@@ -4,6 +4,6 @@
 
 # NASIL KULLANILIR?
 
-* içindeki dosyaları atçan işte
+* **içindeki dosyaları atçan işte**
 
 # ENAYİ MALI BALDAN TATLI :))
