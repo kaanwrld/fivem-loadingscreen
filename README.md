@@ -1,2 +1,1 @@
-# fivem-loadingscreen
-Fivem Ücretli Satılan Giriş Ekranı
+# FİVEMDE ÜCRETLİ SATILAN GİRİŞ EKRANI
