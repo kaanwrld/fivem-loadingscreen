@@ -1,6 +1,9 @@
 # FİVEMDE ÜCRETLİ SATILAN GİRİŞ EKRANI
-
+*
+*
 
 # NASIL KULLANILIR?
 
-* JKSNDJKSA
+* içindeki dosyaları atçan işte
+
+# ENAYİ MALI BALDAN TATLI :))
